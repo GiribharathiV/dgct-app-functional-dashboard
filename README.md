@@ -1,1 +1,1 @@
-# dgct-app-functional-dashboard
+this is education dashboard functional docs
